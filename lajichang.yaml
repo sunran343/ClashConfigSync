@@ -1960,6 +1960,7 @@ proxy-groups:
       - 🇺🇸 洛杉矶isp|中转|3x|NF
       - 🇺🇸 沪美IPLC1|5x
 rules:
+  - DOMAIN-SUFFIX,xinshiyun.com,🎯 全球直连
   - DOMAIN-SUFFIX,moomoo.com,🇭🇰 香港节点
   - DOMAIN-SUFFIX,binance.com,🇸🇬 狮城节点
   - DOMAIN-SUFFIX,saasexch.com,🇸🇬 狮城节点
