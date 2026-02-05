@@ -1962,8 +1962,8 @@ proxy-groups:
 rules:
   - DOMAIN-SUFFIX,xinshiyun.com,🎯 全球直连
   - DOMAIN-SUFFIX,moomoo.com,🇭🇰 香港节点
-  - DOMAIN-SUFFIX,binance.com,🇭🇰 香港节点
-  - DOMAIN-SUFFIX,saasexch.com,🇭🇰 香港节点
+  - DOMAIN-SUFFIX,binance.com,🇯🇵 日本节点
+  - DOMAIN-SUFFIX,saasexch.com,🇯🇵 日本节点
   - DOMAIN-SUFFIX,openai.com,🇺🇲 美国节点
   - DOMAIN-SUFFIX,chatgpt.com,🇺🇲 美国节点
   - DOMAIN-SUFFIX,gemini.google.com,🇺🇲 美国节点
